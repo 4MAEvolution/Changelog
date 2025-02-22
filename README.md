@@ -6,4 +6,3 @@
 - :bug: Megoldva a #56 hibajegy (összeomlás indításkor)  
 - :lipstick: UI továbbfejlesztések és vizuális csiszolások  
 - :lock: Biztonsági frissítések és függőségek frissítése
-- komolyka
