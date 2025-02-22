@@ -2,3 +2,7 @@
 
 ## 🔧 Javítások:  
 
+- Nincs
+
+- Naa
+
