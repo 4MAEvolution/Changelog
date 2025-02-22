@@ -2,7 +2,4 @@
 
 ## 🔧 Javítások:  
 
-- Nincs
-
-- Naa
 
